@@ -10,6 +10,11 @@ So I'm thinking about how companies and organisations can become independent of 
 To prevent censorship, P2P applications may be preferred.
 
  * Video hosting
- * Video chat (Palava.tv?)
+ * (Encrypted) Video chat (Palava.tv? Kaltura?)
  * Image hosting
+ * Easy to use OCR
+ * Real useful office suite (what are the current lacks?)
+ * Good spell checker (in which aspect?)
+ * Speech recognition
+ * Open games
  * ...
